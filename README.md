@@ -27,7 +27,7 @@ Further, the agent is given a tool that allows it to drive its own reasoning:
 
 The system/developer message is provided to the model that contains instructions on how to use the toolkit:
 
-Excerpted from [`./tests/system_message.md`](https://github.com/faranalytics/auto/blob/main/tests/system_message.md).
+Excerpted from [`./tests/system_message.md`](https://github.com/adpatter/auto/blob/main/tests/system_message.md).
 
 ```md
 # Introduction
@@ -95,7 +95,7 @@ This is the program that is operating your context window:
 ## Installation
 
 ```bash
-pip install git+https://github.com/faranalytics/auto.git
+pip install git+https://github.com/adpatter/auto.git
 ```
 
 ## Usage
@@ -105,7 +105,7 @@ pip install git+https://github.com/faranalytics/auto.git
 #### Clone the repository.
 
 ```bash
-git clone https://github.com/faranalytics/auto.git
+git clone https://github.com/adpatter/auto.git
 ```
 
 #### Change directory into the repository.
