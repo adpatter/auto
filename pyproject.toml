@@ -11,7 +11,7 @@ requires-python = ">=3.8"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "adamjpatterson", email = "adpatter2000@gmail.com" },
+  { name = "adpatter", email = "adpatter2000@gmail.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -30,9 +30,9 @@ dependencies = [
   "tiktoken>=0.7.0",
 ]
 [project.urls]
-Documentation = "https://github.com/adamjpatterson/auto#readme"
-Issues = "https://github.com/adamjpatterson/auto/issues"
-Source = "https://github.com/adamjpatterson/auto"
+Documentation = "https://github.com/adpatter/auto#readme"
+Issues = "https://github.com/adpatter/auto/issues"
+Source = "https://github.com/adpatter/auto"
 
 [tool.hatch.version]
 path = "src/auto/__about__.py"
